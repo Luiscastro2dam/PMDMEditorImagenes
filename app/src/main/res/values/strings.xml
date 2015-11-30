@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PMDMPractica2</string>
+
+    <string name="botom">Abrir</string>
+    <string name="btAbrirFotosInternas">Buscar</string>
+    <string name="btRotarIzq">Rotar Izq</string>
+    <string name="btRotarDer">Rotar Der</string>
+    <string name="btBlancoNegro">Envejecer</string>
+    <string name="btColores">Colores</string>
+    <string name="btCamara">Camara</string>
+
+    <string name="tvRojo">Rojo</string>
+    <string name="tvVerde">Verde</string>
+    <string name="tvAzul">Azul</string>
+
+    <string name="menu_Guardar">Guardar</string>
+</resources>
